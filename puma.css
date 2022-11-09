@@ -1,0 +1,38 @@
+* { 
+    text-align: center;
+    }
+
+
+body {
+    background-size: 120%;
+    background-image: url(dd.jpeg);
+    background-attachment: fixed;
+    background-color: gray;
+
+
+}
+
+   h1 {
+    background-color: rgb(180, 180, 180);
+    margin-bottom:1%;
+    
+    
+   }
+   h2 {
+    background-color: rgb(124, 110, 105);
+    
+   }
+   h3 {
+    background-color: rgb(175, 164, 164);
+    
+   }
+ li {
+    text-decoration: none;
+    list-style:none ;
+ }
+ h1 q  {
+    background-color: rgb(88, 25, 36);
+ }
+ a {
+    background-color: rgb(117, 158, 148);
+ }
